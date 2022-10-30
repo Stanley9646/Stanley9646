@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Stanley9646
 - 👀 I’m interested in  writing not only good but also clean code
-- 🌱 I’m currently learning express 
+- 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on  open source project and creating a development app using express with my collegues 
 - twitter @StanleyMaina123
 
